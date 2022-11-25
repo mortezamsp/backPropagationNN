@@ -1,0 +1,252 @@
+loading data
+collecting data
+class number 0
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 774
+                        err = 0.9984877138383277
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 408
+                        err = 0.9971043242729314
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 240
+                        err = 0.9949626050508725
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 133
+                        err = 0.9921648690014441
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 130
+                        err = 0.9885687478888117
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 112
+                        err = 0.9829893855800037
+class number 1
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 310
+                        err = 0.9973508855800814
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 156
+                        err = 0.9956766253721019
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 82
+                        err = 0.9911193748686088
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 46
+                        err = 0.9814676645076195
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 37
+                        err = 0.978403986357599
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 27
+                        err = 0.9661711312411527
+class number 2
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 181
+                        err = 0.9966435549540371
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 93
+                        err = 0.9918956437625925
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 51
+                        err = 0.991451010248725
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 31
+                        err = 0.9879659497994676
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 24
+                        err = 0.9802457535263749
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 19
+                        err = 0.9684943650038509
+class number 3
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 309
+                        err = 0.9977933941154917
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 157
+                        err = 0.9951347748082966
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 83
+                        err = 0.9942169184035985
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 48
+                        err = 0.9877803872277287
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 37
+                        err = 0.9818746683036544
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 29
+                        err = 0.980308359507868
+class number 4
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 1034
+                        err = 0.9986538786296334
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 564
+                        err = 0.9974549065671234
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 372
+                        err = 0.9954111919392477
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 215
+                        err = 0.9924852676924332
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 166
+                        err = 0.9890377501165325
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 115
+                        err = 0.9835445867891441
+class number 5
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 9999
+                        err = 2.734625089658562
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 9999
+                        err = 1.3735119759228431
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 4363
+                        err = 0.9963210271225611
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 2325
+                        err = 0.993731741072983
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 1635
+                        err = 0.9917304980367668
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 1143
+                        err = 0.9870346474747331
+class number 6
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 966
+                        err = 0.9985698197721559
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 562
+                        err = 0.9972217664048867
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 408
+                        err = 0.9950436395876642
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 187
+                        err = 0.9913998152222173
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 180
+                        err = 0.988295777981159
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 109
+                        err = 0.9816069487054362
+class number 7
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 695
+                        err = 0.9980615224041246
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 354
+                        err = 0.9964204997246053
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 187
+                        err = 0.9934138554390384
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 105
+                        err = 0.9890322499425342
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 83
+                        err = 0.9846013289053549
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 65
+                        err = 0.9757914867859147
+class number 8
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 9999
+                        err = 1.179964773436588
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 8853
+                        err = 0.9984151702974848
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 4591
+                        err = 0.9972726648062451
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 1757
+                        err = 0.9952132651599015
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 1170
+                        err = 0.9937141514974444
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 720
+                        err = 0.9900402191546036
+class number 9
+        num hidden layer nodes = 5
+                training...
+                        num epocs = 9999
+                        err = 1.0283100299429397
+        num hidden layer nodes = 10
+                training...
+                        num epocs = 9999
+                        err = 1.023258822954164
+        num hidden layer nodes = 20
+                training...
+                        num epocs = 4476
+                        err = 0.9964603733316164
+        num hidden layer nodes = 50
+                training...
+                        num epocs = 1138
+                        err = 0.9941801711758208
+        num hidden layer nodes = 100
+                training...
+                        num epocs = 508
+                        err = 0.9921404726205653
+        num hidden layer nodes = 200
+                training...
+                        num epocs = 320
+                        err = 0.9879970164188877
